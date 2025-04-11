@@ -1,1 +1,1 @@
-# Blinklytics-Ecommerce-Analytics-Suite
+# Blinklytics - Ecommerce Analytics Suite
